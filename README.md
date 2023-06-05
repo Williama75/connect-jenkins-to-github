@@ -1,3 +1,3 @@
 # connect-jenkins-to-github
 
-#Connecting Jenkins to GitHub.
+Connecting Jenkins to GitHub.
